@@ -1,4 +1,4 @@
-### Python All Topics
+# Python All Topics
 
 
 This repository contains my Python learning journey, practice notebooks, coding exercises, and topic-wise examples. I regularly update it with new concepts and programs as I continue learning Python, Data Science, and related technologies.
