@@ -3,7 +3,7 @@
 
 This repository contains my Python learning journey, practice notebooks, coding exercises, and topic-wise examples. I regularly update it with new concepts and programs as I continue learning Python, Data Science, and related technologies.
 
-##Topics Covered
+## Topics Covered
 
 - Python Fundamentals
 - Lists, Tuples, Dictionaries, and Sets
@@ -19,7 +19,7 @@ This repository contains my Python learning journey, practice notebooks, coding 
 - Matplotlib
 - CSV File Handling
 
-##Purpose
+## Purpose
 
 - Practice Python programming regularly
 - Strengthen programming fundamentals
@@ -27,11 +27,11 @@ This repository contains my Python learning journey, practice notebooks, coding 
 - Learn Data Science libraries
 - Track my learning progress
 
-##Continuous Updates
+## Continuous Updates
 
 This repository is actively maintained and updated with new topics, coding exercises, and practice notebooks as I learn and explore more areas of Python.
 
-##Technologies Used
+## Technologies Used
 
 - Python
 - Jupyter Notebook
@@ -39,8 +39,8 @@ This repository is actively maintained and updated with new topics, coding exerc
 - Pandas
 - Matplotlib
 
-##Author
+## Author
 
 Mohsin Ali
 
-Python Learner | Machine Learning Enthusiast | Data Science Student
+Python Developer | Machine Learning Engineer | Data Scientist
